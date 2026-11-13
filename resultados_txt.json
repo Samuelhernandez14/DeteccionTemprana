@@ -1,0 +1,117 @@
+[
+  {
+    "archivo": "ASC-US ISESALUD.txt",
+    "fecha_procesado": "2026-11-04T13:42:42.023012+00:00",
+    "texto_sha256": "20d635e044152b3ebc236ca6b684757620aaf46584bc80ac8f00315ea1b3cd6a",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 25.2,
+    "alertas_reglas": [],
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Atipias en células epiteliales escamosas de significado indeterminado ASC-US.",
+      "confianza": 1.0,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "22117741",
+      "alertas": [
+        "correo difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "regla del motor"
+  },
+  {
+    "archivo": "LIE BG LAB ECHAVARRIA.txt",
+    "fecha_procesado": "2026-11-04T13:43:06.533048+00:00",
+    "texto_sha256": "9e2b4b03c1ff6e8dfd109c0d1f82fdc59716c3a509855504db4481ea739301ea",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 20.4,
+    "alertas_reglas": [],
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión Intraepitelial Escamosa de Bajo Grado",
+      "confianza": 1.0,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1128417008",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "NEGATIVA LAB ECHAVARRIA.txt",
+    "fecha_procesado": "2026-11-04T13:43:25.963465+00:00",
+    "texto_sha256": "18bbe24ff36af2db151f732ae18ae791fff68cabb8a4167eecfdb46e73324461",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 19.4,
+    "alertas_reglas": [],
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativa para lesión intraepitelial o malignidad",
+      "confianza": 1.0,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43277040",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  }
+]

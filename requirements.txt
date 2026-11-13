@@ -1,0 +1,6 @@
+pymupdf
+pytesseract
+pdf2image
+requests
+pymysql
+python-dotenv

@@ -1,0 +1,56 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+MARIA CRISTINA BLANDON FRANCO
+2025-03-12 16:19:06.
+29  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+01877512
+1039049736
+2025-02-28 18:05:56
+2025-03-09 16:19:45
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+01877512
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: SEDE CENTRAL
+Fecha Nacido
+1995-10-12
+:
+Telefono
+3226222100
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANGRANTE
+CALIDAD DE LA MUESTRA
+Insatisfactoria para evaluacion por extendido hemorragico.
+RECOMENDACIONES
+Se sugiere repetir según criterio médico.
+Citología revisada por el Patólogo Rubén Darío Giraldo.
+CITOFEMME 01/03/2025
+YARLENIS PEREA SANTOS
+5-5975-09
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 01877512
+URL : https://acortar.link/vI3yLL

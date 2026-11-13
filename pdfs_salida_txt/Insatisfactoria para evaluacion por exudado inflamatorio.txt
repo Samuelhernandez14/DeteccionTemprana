@@ -1,0 +1,61 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+YESLY YULIANA ARRIETA LOPEZ
+2025-03-12 16:20:28.
+27  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+01860563
+1036674828
+2025-01-27 11:35:18
+2025-02-04 13:16:41
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+01860563
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: SEDE CENTRAL
+Fecha Nacido
+1997-09-02
+:
+Telefono
+3013711241
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+CONGESTIVO
+METODO PLANIF.
+TUBECTOMIA
+CALIDAD DE LA MUESTRA
+Insatisfactoria para evaluacion por exudado inflamatorio
+CLASIFICACIÓN GENERAL
+OBSERVACIONES Y
+Extendido inflamatorio, extendido grueso y sangre.
+RECOMENDACIONES
+Citología revisada por el Patólogo Rubén Darío Giraldo.
+Se sugiere repetir según criterio médico.
+CITOFEMME 27/01/2025
+CATHERINE RESTREPO ZAPATA
+5-1470-10
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 01860563
+URL : https://acortar.link/vI3yLL

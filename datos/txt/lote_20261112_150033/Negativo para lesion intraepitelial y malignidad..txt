@@ -1,0 +1,62 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+DIOSELINA ORTIZ LONDOÑO
+2025-03-12 16:11:12.
+53  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+74009046
+43716001
+2025-03-03 14:45:30
+2025-03-10 06:14:28
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+74009046
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB CONCORDIA
+Fecha Nacido
+1972-02-08
+:
+Telefono
+3135623630
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANGRANTE
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluacion con presencia de componente endocervical.
+ESTUDIO ONCOLÓGICO
+Negativo para lesion intraepitelial y malignidad.
+Cambios reactivos asociados a inflamacion.
+MICROORGANISMOS
+Cambios en flora vaginal.
+OBSERVACIONES Y
+Extendido inflamatorio y extendido hemorragico
+RECOMENDACIONES
+Se sugiere evaluar y control a criterio médico.
+CITOFEMME 04/03/2025
+CATHERINE RESTREPO ZAPATA
+5-1470-10
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 74009046
+URL : https://acortar.link/vI3yLL

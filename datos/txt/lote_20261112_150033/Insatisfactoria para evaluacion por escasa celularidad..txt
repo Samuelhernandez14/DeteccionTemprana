@@ -1,0 +1,55 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+DANIELA DAVID DAVID
+2025-03-12 16:16:57.
+28  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+71044919
+1216721487
+2025-02-27 14:22:38
+2025-03-08 08:48:02
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+71044919
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB ANDES
+Fecha Nacido
+1996-08-01
+:
+Telefono
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANO
+CALIDAD DE LA MUESTRA
+Insatisfactoria para evaluacion por escasa celularidad.
+RECOMENDACIONES
+Citología revisada por el Patólogo Joan M. Gutiérrez.
+Se sugiere repetir según criterio médico.
+CITOFEMME 03/03/2025
+MARIA DEL SOCORRO BURBANO OROZCO
+1686
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 71044919
+URL : https://acortar.link/vI3yLL

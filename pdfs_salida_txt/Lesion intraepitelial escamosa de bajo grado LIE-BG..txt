@@ -1,0 +1,61 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+EDY JULIETH USUGA PRESIGA
+2025-03-12 16:08:20.
+20  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+16157491
+1011686045
+2025-03-03 11:21:29
+2025-03-10 19:28:13
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+16157491
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB SANTA FE
+Fecha Nacido
+2004-04-21
+:
+Telefono
+:
+CITOLOGIA CERVICO VAGINAL
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluacion con presencia de componente endocervical.
+ESTUDIO ONCOLÓGICO
+Lesion intraepitelial escamosa de bajo grado LIE-BG.
+CLASIFICACIÓN GENERAL
+Anormalidades en celulas epiteliales escamosas.
+MICROORGANISMOS
+Cambios en flora sugestivos de vaginosis bacteriana.
+Hongos morfologicamente compatibles con Candida S.P.
+OBSERVACIONES Y
+RECOMENDACIONES
+Citología revisada por el Patólogo Joan M. Gutiérrez.
+Seguir protocolo de la IPS.
+CITOFEMME 04/03/2025
+MARIA DEL SOCORRO BURBANO OROZCO
+1686
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 16157491
+URL : https://acortar.link/vI3yLL

@@ -1,0 +1,91 @@
+Nit: 890906347
+DIAGONAL 31 NO 36 A SUR 80 3394800
+Genero:
+Empresa
+Femenino
+Fecha Ingreso:
+24/1/2025 08:31:39
+ALIANZA MEDELLIN ANTIOQUIA EPS-S EVENTO
+BAJA COMPLEJIDAD
+Edad
+50A 7M 26D
+Paciente
+LUZ ADIELA PALACIO GARCIA
+CC  43584228
+Documento:
+Servicio:
+Ubicación:
+Medico
+Telefono
+No. de Orden:
+3117332216
+2501240221
+AMBULATORIO
+AGENDAMIENTO
+Laboratorio
+04-1813153-1
+CITOLOGIA
+                   A N A L I S I S
+VAL. DE REFERENCIA
+RESULTADOS
+  UN
+898015  CITOLOGÍA CERVICOUTERINA
+25-073
+SECUENCIA DE LA CITOLOGIA
+3 años
+F.U.M
+1
+NUMERO DE EMBARAZOS
+1
+NUMERO DE PARTOS
+1 año
+FECHA ULTIMA CITOLOGÍA
+QUIRURGICO
+MÉTODO DE PLANIFICACIÓN
+CONGESTIVO
+ASPECTO DEL CUELLO
+CALIDAD MUESTRA
+Satisfatoria, zona de transformación presente.
+INTERPRETACIÓN DEL RESULTADO
+ASC-US (células escamosas atípicas de significado indeterminado)
+MICROORGANISMOS
+Ausencia de flora patógena
+RECOMENDACIONES
+Control según criterio médico
+Página :1/2
+Fecha de Impresión: 28/01/2025 14:28 hr.
+
+
+Nit: 890906347
+DIAGONAL 31 NO 36 A SUR 80 3394800
+Genero:
+Empresa
+Femenino
+Fecha Ingreso:
+24/1/2025 08:31:39
+ALIANZA MEDELLIN ANTIOQUIA EPS-S EVENTO
+BAJA COMPLEJIDAD
+Edad
+50A 7M 26D
+Paciente
+LUZ ADIELA PALACIO GARCIA
+CC  43584228
+Documento:
+Servicio:
+Ubicación:
+Medico
+Telefono
+No. de Orden:
+3117332216
+2501240221
+AMBULATORIO
+AGENDAMIENTO
+Laboratorio
+04-1813153-1
+898015  CITOLOGÍA CERVICOUTERINA
+OBSERVACIONES
+Citología revizada por el médico patólogo Dr Alvaro Restrepo Pareja. Reg-5625-87
+24/1/2025 15:55:36
+Fecha de Validacion:
+Página :2/2
+Fecha de Impresión: 28/01/2025 14:28 hr.

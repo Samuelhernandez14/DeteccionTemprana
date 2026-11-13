@@ -1,0 +1,103 @@
+Nit: 890906347
+DIAGONAL 31 NO 36 A SUR 80 3394800
+Genero:
+Empresa
+Femenino
+Fecha Ingreso:
+24/1/2025 09:02:58
+ALIANZA MEDELLIN ANTIOQUIA EPS-S EVENTO
+BAJA COMPLEJIDAD
+Edad
+28A 10M 29D
+Paciente
+VERONICA ALVAREZ JARAMILLO
+CC  1026060197
+Documento:
+Servicio:
+Ubicación:
+Medico
+Telefono
+No. de Orden:
+3206777630
+2501240241
+AMBULATORIO
+AGENDAMIENTO
+Laboratorio
+04-1813167-1
+CITOLOGIA
+                   A N A L I S I S
+VAL. DE REFERENCIA
+RESULTADOS
+  UN
+898015  CITOLOGÍA CERVICOUTERINA
+25-075
+SECUENCIA DE LA CITOLOGIA
+4 meses
+F.U.M
+3
+NUMERO DE EMBARAZOS
+3
+NUMERO DE PARTOS
+2022
+FECHA ULTIMA CITOLOGÍA
+INYECTABLE
+MÉTODO DE PLANIFICACIÓN
+CONGESTIVO
+ASPECTO DEL CUELLO
+CALIDAD MUESTRA
+Satisfatoria, zona de transformación presente.
+INTERPRETACIÓN DEL RESULTADO
+ASC-H
+(células
+escamosas
+atípicas,
+de
+significado
+indeterminado
+sugestivo
+de
+LEI
+de
+alto
+grado).
+MICROORGANISMOS
+Cambios en la flora vaginal sugestivos a vaginosis bacteriana
+RECOMENDACIONES
+Evaluar por Colposcopia y Biopsia
+Página :1/2
+Fecha de Impresión: 28/01/2025 14:27 hr.
+
+
+Nit: 890906347
+DIAGONAL 31 NO 36 A SUR 80 3394800
+Genero:
+Empresa
+Femenino
+Fecha Ingreso:
+24/1/2025 09:02:58
+ALIANZA MEDELLIN ANTIOQUIA EPS-S EVENTO
+BAJA COMPLEJIDAD
+Edad
+28A 10M 29D
+Paciente
+VERONICA ALVAREZ JARAMILLO
+CC  1026060197
+Documento:
+Servicio:
+Ubicación:
+Medico
+Telefono
+No. de Orden:
+3206777630
+2501240241
+AMBULATORIO
+AGENDAMIENTO
+Laboratorio
+04-1813167-1
+898015  CITOLOGÍA CERVICOUTERINA
+OBSERVACIONES
+Citología revizada por el médico patólogo Dr Alvaro Restrepo Pareja. Reg-5625-87
+24/1/2025 16:01:41
+Fecha de Validacion:
+Página :2/2
+Fecha de Impresión: 28/01/2025 14:27 hr.

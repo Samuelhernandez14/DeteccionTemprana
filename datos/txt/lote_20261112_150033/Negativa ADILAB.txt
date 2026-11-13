@@ -1,0 +1,69 @@
+ANALISIS
+RESULTADO
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Impresión
+Paciente
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+PAULA ANDREA AGUIRRE QUIROZ
+48
+SAVIA SALUD EPS SALUD PUBLICA
+21328463
+43454501
+2026-09-28 10:29:55
+2026-10-13 09:58:22.
+:
+:
+1
+1
+Página 
+De :
+Medico/Area
+: NO REGISTRADO
+A
+FEMENINO
+/
+CC
+:
+Fecha Nacimiento
+21328463
+: 4/12/1977
+CONSULTA EXTERNA
+Cod. Citologia
+: CV.26.00740
+CITOLOGIA CERVICO UTERINA
+DATOS GINECOLOGICOS :
+CUELLO :
+Sano.
+METODO DE PLANIFICACION :
+No planifica / ninguno.
+CALIDAD DE LA MUESTRA :
+Satisfactoria para la evaluación. Presencia de células endocervicales o de la zona de transformación.
+INTERPRETACION/ RESULTADO :
+Negativo para lesión Intraepitelial o Malignidad.
+OTROS HALLAZGOS NO NEOPLASICOS :
+No se observan.
+MICROORGANISMOS :
+No se observan.
+RECOMENDACIONES :
+Se sugiere evaluar y control a criterio medico.
+*La citología es una prueba de tamización, no diagnóstica. Su interpretación se realiza conforme al sistema Bethesda 2014 y la 
+normativa vigente en Colombia. La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+2026-10-01 / 15:46
+Fecha / Hora Validado :
+ELIANA NUÑEZ JARAMILLO
+T.P. 5-5400-09
+CITOHISTOTECNOLOGA
+Calle 49 # 45 - 81 Edificio Cataluña - Piso 3 - Medellin - Colombia
+Telefonos : (+4) 4443582 -  3104564486 - 3104565660 - 3104560324.
+www.adilab.com.co / e-mail : laboratorio@adilab.com.co
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 21328463
+URL : https://acortar.link/vI3yLL

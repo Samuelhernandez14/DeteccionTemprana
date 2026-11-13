@@ -1,0 +1,62 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+SUSANA BORJA GONZALEZ
+2025-03-12 15:39:32.
+20  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+16157490
+1011590539
+2025-03-03 11:18:05
+2025-03-10 19:27:23
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+16157490
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB SANTA FE
+Fecha Nacido
+2004-11-03
+:
+Telefono
+3225227154
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANO
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluacion con presencia de componente endocervical.
+ESTUDIO ONCOLÓGICO
+Atipias en celulas epiteliales de significado indeterminado ASC-US
+CLASIFICACIÓN GENERAL
+Anormalidades en celulas epiteliales escamosas.
+MICROORGANISMOS
+Cambios en flora sugestivos de vaginosis bacteriana.
+RECOMENDACIONES
+Citología revisada por el Patólogo Joan M. Gutiérrez.
+Seguir protocolo de la IPS.
+CITOFEMME 04/03/2025
+MARIA DEL SOCORRO BURBANO OROZCO
+1686
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 16157490
+URL : https://acortar.link/vI3yLL

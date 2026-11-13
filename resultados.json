@@ -1,0 +1,2876 @@
+[
+  {
+    "archivo": "AGC-NEOPLASIA Celulas glandulares atípicas a favor de neoplasia.txt",
+    "fecha_procesado": "2026-11-04T19:51:55.655396+00:00",
+    "texto_sha256": "eb5a97b0d7efb3146c555cd4a8d6f982b840687675a2f9ca96d3f08952bcf5e5",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      12
+    ],
+    "codigos_ia": [
+      12
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        12
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "AGC-NEOPLASIA: Celulas glandulares atípicas a favor de neoplasia",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "39382733",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [12]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "ASC H..txt",
+    "fecha_procesado": "2026-11-04T19:52:31.875848+00:00",
+    "texto_sha256": "7b38d5a151ce04512591d5000efe2f566ef9274c524f3dda3e80bd7150ea8ead",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 34.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2,
+      10
+    ],
+    "codigos_ia": [
+      2,
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2,
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-H (células escamosas atípicas, de significado indeterminado sugestivo de LEI de alto grado) | Células endocervicales atípicas sospech",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43865985",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2, 10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "ASC H.txt",
+    "fecha_procesado": "2026-11-04T19:52:58.831030+00:00",
+    "texto_sha256": "1d05617f4bdf9475695be57abf2bb984adb6d637da99774e45cb852b8b578e40",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-H (células escamosas atípicas, de significado indeterminado sugestivo de LEI de alto grado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1026060197",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "ASC US....txt",
+    "fecha_procesado": "2026-11-04T19:53:26.353559+00:00",
+    "texto_sha256": "e0f3232ac98d36be70bc626e86407c448e50d345187df9b4b875240ee1e24198",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 27.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Significado Indeterminado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43037048",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "ASC US..txt",
+    "fecha_procesado": "2026-11-04T19:53:52.384039+00:00",
+    "texto_sha256": "6304beeaf594d9c554cabf7c6252496b0763a09d2e60b7985794bfb18ebd1af4",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43584228",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "ASC US.txt",
+    "fecha_procesado": "2026-11-04T19:54:18.674732+00:00",
+    "texto_sha256": "e64d722710fdb04a1ce6709e7ec91817e86a80ab1a4a58d17b8b57007204f26a",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "significado indeterminado | ASC-US",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43695436",
+      "alertas": [
+        "correo completado desde el PDF (faltaba en la BD)"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "ASC-H Células escamosas atípicas (no excluye lesión intraepitelial de alto grado).txt",
+    "fecha_procesado": "2026-11-04T19:54:50.734069+00:00",
+    "texto_sha256": "6a55860f254ea5aa9f61820b4e463cdf3fbb1dafb61966ce47039278f8e004b9",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 30.3,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-H | Células escamosas atípicas (no excluye lesión intraepitelial de alto grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "21739382",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "ASC-US (Células escamosas atípicas de significado indeterminado).txt",
+    "fecha_procesado": "2026-11-04T19:55:16.149088+00:00",
+    "texto_sha256": "c070f273a96078897e409ab9129a492456db4600d9e7ba9a00909df53907d4b1",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 25.4,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "42032333",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "ASC-US (Células escamosas atípicas de significado indeterminado)_ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T19:55:48.437926+00:00",
+    "texto_sha256": "f08ddd13b0437d6571d5126232ab8f721e17d6b43a831f15c17fd94a337db473",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 32.3,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "42977288",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "ASC-US ISESALUD.txt",
+    "fecha_procesado": "2026-11-04T19:56:17.387818+00:00",
+    "texto_sha256": "20d635e044152b3ebc236ca6b684757620aaf46584bc80ac8f00315ea1b3cd6a",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 28.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "significado indeterminado | ASC-US",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "22117741",
+      "alertas": [
+        "correo difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Atipias de celulas escamosas que no excluyen lesion de alto grado ASC-H.txt",
+    "fecha_procesado": "2026-11-04T19:56:44.038973+00:00",
+    "texto_sha256": "22ae185410c0888d43aa61e76eae404f6a220c321cc83409239036ae39b6c4b7",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "que no excluyen lesion de alto grado ASC-H",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43607817",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Atipias en celulas epiteliales de significado indeterminado ASC-US.txt",
+    "fecha_procesado": "2026-11-04T19:57:07.464001+00:00",
+    "texto_sha256": "fb222e0d5a7e6798367d6443490eaeba0a24fd7f941fccdb0efab19f1e4e1a2b",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.3,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "significado indeterminado | ASC-US",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "16157490",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Células endocervicales  atípicas a favor de neoplasia (AGC-Neoplasia).txt",
+    "fecha_procesado": "2026-11-04T19:57:38.913880+00:00",
+    "texto_sha256": "205700507dc6bf7f896e2883c53dd7a4aa613f84f05575141408eed880bf1915",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 28.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      10
+    ],
+    "codigos_ia": [
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células endocervicales atípicas a favor de neoplasia (AGC-Neoplasia)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "42942053",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endocervicales  atípicas a favor de neoplasia (AGC-Neoplasia)_ Lesión intraepitelial escamosa (LEI) de alto grado. Descartar invasión.txt",
+    "fecha_procesado": "2026-11-04T19:58:16.768557+00:00",
+    "texto_sha256": "9795cf78633d83e4a3f4f318bcfe5c63f4afd6f42b4ce1e42603a85482bb1b03",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 35.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      4,
+      10
+    ],
+    "codigos_ia": [
+      10,
+      4
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        4,
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de alto grado | Células endocervicales atípicas a favor de neoplasia (AGC-Neoplasia)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "26637067",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [4, 10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ ASC-US (Células escamosas atípicas de significado indeterminado).txt",
+    "fecha_procesado": "2026-11-04T19:58:43.439974+00:00",
+    "texto_sha256": "4d522e358c8a7c78c3f6c9e4bf359421e0774e81aa33a4994950c076fbaeb602",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.4,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43058885",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ Células endocervicales  atípicas a favor de neoplasia (AGC-Neoplasia).txt",
+    "fecha_procesado": "2026-11-04T19:59:12.052645+00:00",
+    "texto_sha256": "70516c44a8be1542d08feca078d3796d77a1e915aad89506ac6f15a22991ec79",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      10
+    ],
+    "codigos_ia": [
+      7,
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células endocervicales atípicas a favor de neoplasia (AGC- Neoplasia)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43094032",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ Células escamosas atípicas, no excluye LEI de alto grado (ASC-H).txt",
+    "fecha_procesado": "2026-11-04T19:59:39.355751+00:00",
+    "texto_sha256": "0902146972a05ee08114a87cbcd02bca73781af855d031f5147fdee98870da69",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2,
+      11
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "32460758",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ Lesión intraepitelial escamosa (LEI) de bajo grado.txt",
+    "fecha_procesado": "2026-11-04T20:00:07.500195+00:00",
+    "texto_sha256": "1bc9a56eac214a50bd383b4c93620f872c5939252e563bd3d1d0a5a81756bc3c",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 25.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3,
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43847044",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ Lesión intraepitelial escamosa (LEI) de bajo grado_ Células endometriales  atípicas sin especificar.txt",
+    "fecha_procesado": "2026-11-04T20:00:49.163413+00:00",
+    "texto_sha256": "dc7548c7ab35630546564a91b5863777a2a6be20fc279502ebd69cca4c4e8972",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 36.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3,
+      8
+    ],
+    "codigos_ia": [
+      3,
+      10,
+      9
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3,
+        8
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado | Células endometriales atípicas",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "22019510",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3, 8]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células endometriales en mujeres mayores de 45 años_ Persiste_ Lesión intraepitelial escamosa (LEI) de bajo grado.txt",
+    "fecha_procesado": "2026-11-04T20:01:17.251852+00:00",
+    "texto_sha256": "9f1b8b9e1f3ad48f43aeed304b8c3d1ed35d80489ba8efa5b12a50e5cd5c1ec7",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.4,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3,
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43416118",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H), Adenocarcinoma no especificado (NOS).txt",
+    "fecha_procesado": "2026-11-04T20:01:50.245697+00:00",
+    "texto_sha256": "49cae919aa6c4ab91d6619ae8715805f7525826c613eb687fb99178fd5757c67",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 29.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2,
+      16
+    ],
+    "codigos_ia": [
+      2,
+      16
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2,
+        16
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H) | Adenocarcinoma no especificado (NOS)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "40933470",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2, 16]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H).txt",
+    "fecha_procesado": "2026-11-04T20:02:16.416017+00:00",
+    "texto_sha256": "4c1fff33fe631aaef0c587c1ceee26717fd356a06e2e1549c170259945e34ec1",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "22242438",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)_ Células endocervicales  atípicas a favor de neoplasia (AGC-Neoplasia).txt",
+    "fecha_procesado": "2026-11-04T20:02:55.121496+00:00",
+    "texto_sha256": "9f73e8e204d5a373579a7128f39d68d19c16ab2e8cc9da7ddcae64ea8542492a",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 35.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2,
+      10
+    ],
+    "codigos_ia": [
+      2,
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2,
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H) | Células endocervicales atípicas a favor de neoplasia (AGC-Neoplasia)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "21991760",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2, 10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)_ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T20:03:28.223760+00:00",
+    "texto_sha256": "291a67b32a2d6c70ce628e29ce46b82b1c8807be68ade6cbba8b30e17f27bf58",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 30.4,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2
+    ],
+    "codigos_ia": [
+      2
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "33081895",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)_ Células Glandulares, a favor de neoplasia..txt",
+    "fecha_procesado": "2026-11-04T20:04:05.166828+00:00",
+    "texto_sha256": "cd1fbc763c885d304623f8c097644e7504c3f8c2f421c5257e6b86228cc91e09",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 34.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2,
+      12
+    ],
+    "codigos_ia": [
+      2,
+      12
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2,
+        12
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H) | Células Glandulares, a favor de neoplasia",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "52221792",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2, 12]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H)_ Células Glandulares, a favor de neoplasia._ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T20:04:39.902301+00:00",
+    "texto_sha256": "21b03e84a1b81e68c95e45a77aee753ce9599f659acf19eea409f2c86ad64aba",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 32.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      2,
+      12
+    ],
+    "codigos_ia": [
+      2,
+      12
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        2,
+        12
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Células escamosas atípicas, no excluye LEI de alto grado (ASC-H) | Células Glandulares, a favor de neoplasia",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43544953",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [2, 12]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Hallazgos no neoplásicos  Cambios celulares reactivos asociados a_ Atrofia_ Negativo para lesión intraepitelial y malignidad.txt",
+    "fecha_procesado": "2026-11-04T20:05:11.419134+00:00",
+    "texto_sha256": "2fd17d1cbdb3856613c5c914a15dddc1fa899794be8c8a05194b706389bff198",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 31.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "21968988",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Hallazgos no neoplásicos  Cambios celulares reactivos asociados a_ DIU_ Atrofia_ Negativo para lesión intraepitelial y malignidad.txt",
+    "fecha_procesado": "2026-11-04T20:05:37.484055+00:00",
+    "texto_sha256": "6f87f559a8e76db9b6323127f7a701f10273ac2638112a09661cd228de93f3ff",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43094301",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Hallazgos no neoplásicos  Cambios celulares reactivos asociados a_ Inflamación_ Atrofia_ Negativo para lesión intraepitelial y malignidad.txt",
+    "fecha_procesado": "2026-11-04T20:06:01.773229+00:00",
+    "texto_sha256": "0ca1c02c7a12c0356e797bec6dcaa7765453e63025dab5326db70c2cef2f17c7",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "6452604",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Hallazgos no neoplásicos  Cambios celulares reactivos asociados a_ Inflamación_ Radiación_ Negativo para lesión intraepitelial y malignidad.txt",
+    "fecha_procesado": "2026-11-04T20:06:24.526047+00:00",
+    "texto_sha256": "46ca20eafc62a50082b85f28016430f55ef64123f037e70291affc996d88951d",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1020424579",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por defectos de fijacion..txt",
+    "fecha_procesado": "2026-11-04T20:06:48.068092+00:00",
+    "texto_sha256": "f4da66d72fa365528d67fc743a158ec26662d8e11ea85e6742d9d26ebef05684",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43321164",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por defectos de fijacion.txt",
+    "fecha_procesado": "2026-11-04T20:07:06.655630+00:00",
+    "texto_sha256": "f4da66d72fa365528d67fc743a158ec26662d8e11ea85e6742d9d26ebef05684",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 18.6,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43321164",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por escasa celularidad..txt",
+    "fecha_procesado": "2026-11-04T20:07:26.572754+00:00",
+    "texto_sha256": "de95f47246480696e1ae7b433cffce0039660b418408eedd07d88a88d682ad5d",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 19.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "71044919",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por extendido grueso..txt",
+    "fecha_procesado": "2026-11-04T20:07:48.336411+00:00",
+    "texto_sha256": "3f4051f5111b93710d77973ff838c08d7397cdcadd9964bf7d24db03141d1142",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 21.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "66083481",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por extendido hemorragico..txt",
+    "fecha_procesado": "2026-11-04T20:08:08.097553+00:00",
+    "texto_sha256": "f501797874fbe0e4fa93ed29fafdda7b87336b1df3d525bd8373e3bb5d588117",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 19.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1039049736",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Insatisfactoria para evaluacion por exudado inflamatorio.txt",
+    "fecha_procesado": "2026-11-04T20:08:30.483547+00:00",
+    "texto_sha256": "ca15d7da1fd504d58d304f3d345f0051220005e3e2a7cf901eaee123c06e8a3a",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.3,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1036674828",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Lesion intraepitelial escamosa de bajo grado LIE-BG..txt",
+    "fecha_procesado": "2026-11-04T20:08:59.437190+00:00",
+    "texto_sha256": "7dac6b00e0df60c527049ed870eaa46c419a3d1bcdf5899a8232e82d72ce2693",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 27.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesion intraepitelial escamosa de bajo grado | LIE-BG",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "16157491",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesion intraepitelial escamosa de bajo grado por PVH LIE-BG.txt",
+    "fecha_procesado": "2026-11-04T20:09:25.045561+00:00",
+    "texto_sha256": "8c3c6bd931a0b7ca518eaf35df1351513d8bc02c487d73b6aff1678f4706391b",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": 19,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesion intraepitelial escamosa de bajo grado | LIE-BG",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "56085145",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesión intraepitelial escamosa (LEI) de alto grado_ Células endocervicales  atípicas a favor de neoplasia (AGC-Neoplasia).txt",
+    "fecha_procesado": "2026-11-04T20:10:01.478196+00:00",
+    "texto_sha256": "8069b1d52f85721eeeac49f5be5b507be061fda6e7161c70cc0a8f202d5826ae",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 33.6,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      4,
+      10
+    ],
+    "codigos_ia": [
+      4,
+      10
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        4,
+        10
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de alto grado | Células endocervicales atípicas a favor de neoplasia (AGC-Neoplasia)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1214724851",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [4, 10]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesión intraepitelial escamosa (LEI) de bajo grado - PVH.txt",
+    "fecha_procesado": "2026-11-04T20:10:28.151950+00:00",
+    "texto_sha256": "9f883f91dbe0e7692b56b16a37987448150983bf92ad010654e84f251e31e9d3",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.6,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": 20,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43753543",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesión intraepitelial escamosa (LEI) de bajo grado.txt",
+    "fecha_procesado": "2026-11-04T20:10:52.330437+00:00",
+    "texto_sha256": "119b0eb84003f046c4804bcb5768bee49e2d7655d427db7263453a39f2d554ea",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 21.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "32517402",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesión intraepitelial escamosa (LEI) de bajo grado_ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T20:11:24.546206+00:00",
+    "texto_sha256": "2e84bc60ba89b2c76e603e14ef833f7bb60ea867992c1d90eefb00aaac9a64d7",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 29.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3,
+      12
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43594928",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Lesión intraepitelial escamosa de bajo grado en vagina.txt",
+    "fecha_procesado": "2026-11-04T20:11:50.730406+00:00",
+    "texto_sha256": "2438d05966b93f4e2c2c4035673af2604ca1e76dd29d56dd9d1f1e41e39af034",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "25135729",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "LIE BG LAB ECHAVARRIA.txt",
+    "fecha_procesado": "2026-11-04T20:12:17.423743+00:00",
+    "texto_sha256": "9e2b4b03c1ff6e8dfd109c0d1f82fdc59716c3a509855504db4481ea739301ea",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 25.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión Intraepitelial Escamosa de Bajo Grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1128417008",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Muestra no procesada insatisfactoria_ Placa mal identificada o sin identificar..txt",
+    "fecha_procesado": "2026-11-04T20:12:41.273922+00:00",
+    "texto_sha256": "0120f788c8ecfcbc1aeaf2b39eb883dd0776a584c834794ef37943b6eb7d681c",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      18
+    ],
+    "codigos_ia": [
+      18
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        18
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "insatisfactoria",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1152201221",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Muestra inadecuada para lectura: sin regla definida"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "Muestra inadecuada para lectura: sin regla definida"
+  },
+  {
+    "archivo": "Negativa ADILAB.txt",
+    "fecha_procesado": "2026-11-04T20:13:05.539771+00:00",
+    "texto_sha256": "2c9edac0e3331009735dd3cc0b68fd896bf1487032802864631ea80baa3fafdd",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión Intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "21328463",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativa ISESALUD.txt",
+    "fecha_procesado": "2026-11-04T20:13:34.669750+00:00",
+    "texto_sha256": "a5633ab9a4159598338bfd3bf6e1beee5d99565f3fd2282de3a3e8d699eb48b7",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 29.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "2609220018",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "NEGATIVA LAB ECHAVARRIA.txt",
+    "fecha_procesado": "2026-11-04T20:13:58.497466+00:00",
+    "texto_sha256": "18bbe24ff36af2db151f732ae18ae791fff68cabb8a4167eecfdb46e73324461",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.8,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativa para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43277040",
+      "alertas": [],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativa.txt",
+    "fecha_procesado": "2026-11-04T20:14:22.612105+00:00",
+    "texto_sha256": "f61871ae4f5fd0ce4163d66f59b618ba3df9f222af818b477a8186c20105e646",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1038359831",
+      "alertas": [
+        "correo completado desde el PDF (faltaba en la BD)"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativo para lesion intraepitelial y malignidad..txt",
+    "fecha_procesado": "2026-11-04T20:14:45.999906+00:00",
+    "texto_sha256": "e79d20b43543f4cbb32ec23d47bb57d3a6e622c324c0323844f7c05916545b52",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.3,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesion intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "74009046",
+      "alertas": [
+        "Afiliada no encontrada en la BD: se usan solo datos del PDF"
+      ],
+      "en_bd": false
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativo para lesión intraepitelial y malignidad. Cambios celulares  reactivos asociados a Inflamación..txt",
+    "fecha_procesado": "2026-11-04T20:15:10.033562+00:00",
+    "texto_sha256": "4db56bb79c89ee0479142383b194acd57190152b925807573fcbb7d7457979b5",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1152440870",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativo para lesión intraepitelial y malignidad. Cambios celulares  reactivos asociados a Inflamación._ Células endometriales en mujeres mayores de 45 años.txt",
+    "fecha_procesado": "2026-11-04T20:15:35.260327+00:00",
+    "texto_sha256": "e172a0d01ca932c0dce4f926b68e899ee198edce023f329f4ded9ab9743802cf",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 25.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "5801070",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativo para lesión intraepitelial y malignidad. Cambios celulares  reactivos asociados a Inflamación._ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T20:16:00.191494+00:00",
+    "texto_sha256": "3b6170926f734523ac1a2aac5372f1b6eb1ee1ef4cd3492005c30c6f7bf13938",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1152227098",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Negativo para lesión intraepitelial y malignidad.txt",
+    "fecha_procesado": "2026-11-04T20:16:23.178975+00:00",
+    "texto_sha256": "05b6b5da1c82c809bc55996af827555a073e68095664d3681fa2dfe91fc0062f",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.9,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      17
+    ],
+    "codigos_ia": [
+      17
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        17
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Negativo para lesión intraepitelial",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1017178430",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "Citología negativa sin criterio de activación"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Persiste_ ASC-US (Células escamosas atípicas de significado indeterminado).txt",
+    "fecha_procesado": "2026-11-04T20:16:49.716704+00:00",
+    "texto_sha256": "230732db0c8826d018c940829f20607eeb9d3656b70796888c8f5c24ee545e0d",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 26.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1036929312",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Persiste_ ASC-US (Células escamosas atípicas de significado indeterminado)_ Células glandulares en pacientes post-histerectomizadas.txt",
+    "fecha_procesado": "2026-11-04T20:17:19.042236+00:00",
+    "texto_sha256": "22bdec8924791704fe4355684e127d4e0dd567e6c8b1c1ff15add16ab9978cbd",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 29.2,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43002747",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Persiste_ Lesión intraepitelial escamosa (LEI) de bajo grado.txt",
+    "fecha_procesado": "2026-11-04T20:17:45.366045+00:00",
+    "texto_sha256": "5daec6ba2fb519404b298301fff3998edfb9eb628dba522837532ed7e0dace14",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 24.1,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa (LEI) de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "1017169222",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Persiste_ Lesión intraepitelial escamosa de bajo grado en vagina.txt",
+    "fecha_procesado": "2026-11-04T20:18:10.615357+00:00",
+    "texto_sha256": "13b7bb169e3ec2778f1881a53332d69f23cdc19863e5fb9f7786970d4b42692c",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.7,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      3
+    ],
+    "codigos_ia": [
+      3
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        3
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "Lesión intraepitelial escamosa de bajo grado",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "22019887",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": true,
+      "regla": 1,
+      "indicacion": "tamizaje",
+      "motivos": [
+        "Regla 1: códigos [3]"
+      ]
+    },
+    "correo": {
+      "estado": "enviado",
+      "detalle": "shernandez@nxs.com.co",
+      "destino": "shernandez@nxs.com.co"
+    },
+    "revision_humana": false,
+    "motivo_revision": null
+  },
+  {
+    "archivo": "Reparación; ASC-US (Células escamosas atípicas de significado indeterminado).txt",
+    "fecha_procesado": "2026-11-04T20:18:34.226628+00:00",
+    "texto_sha256": "5ce551c97e40c8c1d2c42340966f9a2e37bdd810a06caa3168f2b12db242e108",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 23.5,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43045710",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  },
+  {
+    "archivo": "Reparación_ ASC-US (Células escamosas atípicas de significado indeterminado).txt",
+    "fecha_procesado": "2026-11-04T20:18:56.263707+00:00",
+    "texto_sha256": "5ce551c97e40c8c1d2c42340966f9a2e37bdd810a06caa3168f2b12db242e108",
+    "fuente_extraccion": "reglas+ia",
+    "segundos_ia": 22.0,
+    "alertas_reglas": [],
+    "codigos_reglas": [
+      1
+    ],
+    "codigos_ia": [
+      1
+    ],
+    "vph_reglas": null,
+    "vph_ia": null,
+    "extraccion": {
+      "codigos_citologia": [
+        1
+      ],
+      "vph": null,
+      "tiene_anexo1": false,
+      "evidencia": "ASC-US (Células escamosas atípicas de significado indeterminado)",
+      "confianza": 0.95,
+      "errores_validacion": []
+    },
+    "afiliado": {
+      "documento": "43045710",
+      "alertas": [
+        "direccion difiere (PDF vs BD); se usa la BD"
+      ],
+      "en_bd": true
+    },
+    "exclusiones": [],
+    "decision": {
+      "activar": false,
+      "regla": null,
+      "indicacion": null,
+      "motivos": [
+        "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+      ]
+    },
+    "correo": {
+      "estado": "no_aplica"
+    },
+    "revision_humana": true,
+    "motivo_revision": "ASC-US sin VPH o sin histórico verificado: no se puede descartar"
+  }
+]

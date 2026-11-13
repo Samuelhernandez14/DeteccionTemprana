@@ -1,0 +1,66 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+MONICA MARCELA ACOSTA AGUDELO
+2025-03-12 16:09:55.
+37  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+56085145
+1037583143
+2025-02-24 14:40:22
+2025-03-03 13:25:08
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+56085145
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB YARUMAL
+Fecha Nacido
+1987-06-10
+:
+Telefono
+3163710610
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANO
+METODO PLANIF.
+QUIRURGICO
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluacion con presencia de componente endocervical.
+ESTUDIO ONCOLÓGICO
+Lesion intraepitelial escamosa de bajo grado por PVH LIE-BG
+CLASIFICACIÓN GENERAL
+Anormalidades en celulas epiteliales escamosas.
+MICROORGANISMOS
+Ausencia de flora patogena.
+OBSERVACIONES Y
+RECOMENDACIONES
+Citología revisada por el Patólogo Rubén Darío Giraldo.
+Se sugiere evaluar por médico tratante.
+Seguir protocolo de la IPS.
+CITOFEMME 26/02/2025
+MANUELA BOTERO SERNA 
+5-3326-15
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 56085145
+URL : https://acortar.link/vI3yLL

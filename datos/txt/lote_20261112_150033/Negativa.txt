@@ -1,0 +1,64 @@
+INFORMACIÓN DEL PACIENTE
+Fecha impresión:
+25/02/2025
+11:43:35a.m.
+Tipo reporte:
+COPIA
+Fecha atención:
+Fecha resultado:
+Entidad:
+E.P.S.:
+Médico:
+Sexo:
+Edad:
+Teléfono:
+Paciente:
+Doc. Id.:
+ORDEN
+No.: 360133
+PLACA
+No.: 25-032410
+AURA LUCELI GARCIA VELASQUEZ 
+32
+Años
+E.S.E HOSPITAL SANTA ISABEL  
+24/02/2025
+1038359831
+FEMENINO
+25/02/2025  11:35 am
+DATOS GINECOLÓGICOS
+Síntomas:
+Resul. Cito. Ant.:
+Signo:
+Método planif.:
+Gestación:
+Partos:
+F.U.M.:
+F.U.C.:
+28/01/2025
+Abortos:
+2022
+2
+CITOFEMME IPS S.A.S.
+NIT: 900358952-9
+Calle 25 Sur #46-173
+Envigado-Colombia
+PBX: (574) 4485530
+https://www.citofemme.com/
+administracion@citofemme.com
+PBX1: (574) 4485530
+PBX2: (574) 3135170271
+INFORME DE CITOLOGÍA CERVICOUTERINA
+SISTEMA BETHESDA 2001
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluación con presencia de componente endocervical
+ESTUDIO ONCOLÓGICO
+Negativo para lesión intraepitelial y malignidad
+Cambios reactivos asociados a inflamación
+MICROORGANISMOS
+Presencia de flora no patógena
+RECOMENDACIONES
+Control según criterio médico
+Responsable:
+MARÍA DEL SOCORRO BURBANO OROZCO
+Registro: 001686

@@ -1,0 +1,263 @@
+Fecha 2025/02/19   Hora:  17:23
+RESULTADO VALIDADO Y EXPEDIDO POR EL LABORATORIO MÉDICO ECHAVARRÍA
+Paciente:
+CC 39382733
+CARMONA RAMIREZ LUZ MERY
+Nombre de Examen
+Resultado
+62 Años 1 Mes 4 Dias
+Identificación:
+Edad:
+20700356
+07-feb.-2025
+Teléfono Móvil:
+3136048977
+Empresa:HOSP SAN VICENTE DE PAUL DE CALDAS ANT
+Sede: Hospital de Caldas
+Médico:
+1 de 4
+ORDEN O CÓDIGO:
+Página No:
+Ingreso de Información:
+Descripción del Reporte:
+Femenino
+Genero:
+Teléfono:
+SIN DATO
+E-mail:
+Final
+Teléfono:
+Envío de resultados:
+Servicio:
+Dirección:
+Autorización:
+El intervalo biológico de referencia ha sido ajustado de acuerdo a la edad, género y metodología
+SIN DATO
+CALDAS
+248201-3393986
+Unidad
+Valor de Referencia
+CITOLOGIA
+ESTUDIO DE COLORACION BASICA EN CITOLOGIA CERVICO-UTERINA CONVENCIONAL (SISTEMA BETHESDA 2014)
+FECHA DE LA ULTIMA MENSTRUACION (FUM)
+HACE 14 AÑOS
+FECHA DE LA ULTIMA CITOLOGIA
+Hace 1 año
+SINTOMAS
+Control
+TIPO DE CUELLO
+Cuello sano
+TRATAMIENTOS
+Conización
+CALIDAD DE LA MUESTRA
+Satisfactoria con presencia de componente endocervical y/o zona de transformación
+INTERPRETACION  /  RESULTADO
+AGC-NEOPLASIA: Celulas glandulares atípicas a favor de neoplasia
+MICROORGANISMOS
+No se observa flora patógena
+SUGERENCIAS
+Se sugiere revisión médica y aplicar protocolo de manejo según alteración y factores de riesgo.
+REVISADO POR
+Dr. Ruben Dario Giraldo Castro. Médico Patólogo Reg. 3367
+NOTA
+La citología no es una prueba diagnóstica, es una prueba de tamizaje. La frecuencia de la realización de la citología
+cervicouterina responde al criterio del médico tratante
+Tipos de Referencia
+FECHA TOMA DE CITOLOGÍA
+07-02-2025
+Fecha            Hora
+Toma de Muestra:     07-02-2025     07:23
+Reporte:                  14-02-2025     15:15
+Técnica:                  MICROSCOPIA DE LUZ
+Tipo de muestra:      CITOLOGIA
+Validado por:
+Revisado por:
+
+
+Fecha 2025/02/19   Hora:  17:23
+RESULTADO VALIDADO Y EXPEDIDO POR EL LABORATORIO MÉDICO ECHAVARRÍA
+Paciente:
+CC 39382733
+CARMONA RAMIREZ LUZ MERY
+Nombre de Examen
+Resultado
+62 Años 1 Mes 4 Dias
+Identificación:
+Edad:
+20700356
+07-feb.-2025
+Teléfono Móvil:
+3136048977
+Empresa:HOSP SAN VICENTE DE PAUL DE CALDAS ANT
+Sede: Hospital de Caldas
+Médico:
+2 de 4
+ORDEN O CÓDIGO:
+Página No:
+Ingreso de Información:
+Descripción del Reporte:
+Femenino
+Genero:
+Teléfono:
+SIN DATO
+E-mail:
+Final
+Teléfono:
+Envío de resultados:
+Servicio:
+Dirección:
+Autorización:
+El intervalo biológico de referencia ha sido ajustado de acuerdo a la edad, género y metodología
+SIN DATO
+CALDAS
+248201-3393986
+Unidad
+Valor de Referencia
+MICROSCOPIA
+SANGRE OCULTA EN MATERIA FECAL (DETERMINACION DE
+HEMOGLOBINA HUMANA ESPECIFICA)
+Negativo
+07-02-2025     07:23
+07-02-2025     10:10
+Toma de Muestra:
+Reporte:
+Técnica:
+Tipo de Muestra:
+INMUNOCROMATOGRAFIA
+M. FECAL MICROSCOPIA
+Fecha            Hora
+Revisado por:
+
+
+Fecha 2025/02/19   Hora:  17:23
+RESULTADO VALIDADO Y EXPEDIDO POR EL LABORATORIO MÉDICO ECHAVARRÍA
+Paciente:
+CC 39382733
+CARMONA RAMIREZ LUZ MERY
+Nombre de Examen
+Resultado
+62 Años 1 Mes 4 Dias
+Identificación:
+Edad:
+20700356
+07-feb.-2025
+Teléfono Móvil:
+3136048977
+Empresa:HOSP SAN VICENTE DE PAUL DE CALDAS ANT
+Sede: Hospital de Caldas
+Médico:
+3 de 4
+ORDEN O CÓDIGO:
+Página No:
+Ingreso de Información:
+Descripción del Reporte:
+Femenino
+Genero:
+Teléfono:
+SIN DATO
+E-mail:
+Final
+Teléfono:
+Envío de resultados:
+Servicio:
+Dirección:
+Autorización:
+El intervalo biológico de referencia ha sido ajustado de acuerdo a la edad, género y metodología
+SIN DATO
+CALDAS
+248201-3393986
+Unidad
+Valor de Referencia
+INMUNOLOGIA BÁSICA
+SEROLOGÍA [PRUEBA NO TREPONEMICA] RPR & EN SUERO
+No Reactiva
+No reactivo
+Tipos de Referencia
+07-02-2025     07:23
+07-02-2025     10:08
+Toma de Muestra:
+Reporte:
+Técnica:
+Tipo de Muestra:
+INMUNOAGLUTINACIÓN (RPR)
+SUERO INMUNOLOGIA B
+Fecha            Hora
+Revisado por:
+
+
+Fecha 2025/02/19   Hora:  17:23
+RESULTADO VALIDADO Y EXPEDIDO POR EL LABORATORIO MÉDICO ECHAVARRÍA
+Paciente:
+CC 39382733
+CARMONA RAMIREZ LUZ MERY
+Nombre de Examen
+Resultado
+62 Años 1 Mes 4 Dias
+Identificación:
+Edad:
+20700356
+07-feb.-2025
+Teléfono Móvil:
+3136048977
+Empresa:HOSP SAN VICENTE DE PAUL DE CALDAS ANT
+Sede: Hospital de Caldas
+Médico:
+4 de 4
+ORDEN O CÓDIGO:
+Página No:
+Ingreso de Información:
+Descripción del Reporte:
+Femenino
+Genero:
+Teléfono:
+SIN DATO
+E-mail:
+Final
+Teléfono:
+Envío de resultados:
+Servicio:
+Dirección:
+Autorización:
+El intervalo biológico de referencia ha sido ajustado de acuerdo a la edad, género y metodología
+SIN DATO
+CALDAS
+248201-3393986
+Unidad
+Valor de Referencia
+HORMONAS
+VIH 1 Y 2, ANTICUERPOS & *
+0.07
+Indice
+0 a 0.99
+No reactivo: Menor a 1.00
+Reactivo: Mayor o igual a 1.00
+Prueba presuntiva de cuarta generación.
+Un resultado No reactivo no descarta la posibilidad de infección por HIV1/HIV2. Un resultado Reactivo es presuntivo y
+debe realizarse prueba confirmatoria con una metodología y muestra sanguínea diferente.
+Tipos de Referencia
+07-02-2025     07:23
+07-02-2025     19:04
+Toma de Muestra:
+Reporte:
+Técnica:
+Tipo de Muestra:
+QUIMIOLUMINISCENCIA
+SUERO HORMONAS
+Fecha            Hora
+HEPATITIS B ANTIGENO DE SUPERFICIE [AG HBS]
+0.18
+S/CO
+0 a 0.99
+No reactivo: Menor a 1.00
+Reactivo: Mayor o igual a 1.00
+Tipos de Referencia
+07-02-2025     07:23
+07-02-2025     19:03
+Toma de Muestra:
+Reporte:
+Técnica:
+Tipo de Muestra:
+QUIMIOLUMINISCENCIA
+SUERO HORMONAS
+Fecha            Hora
+Revisado por:

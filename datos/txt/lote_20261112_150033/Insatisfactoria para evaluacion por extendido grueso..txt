@@ -1,0 +1,66 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+MARIA LUGARDA LONDOÑO QUINTERO
+2025-03-12 16:18:15.
+41  /  F
+SAVIA SALUD EPS EVENTO
+66083481
+43183042
+2025-02-25 09:33:24
+2025-03-06 22:51:21
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+66083481
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: ADILAB ENVIGADO
+Fecha Nacido
+1983-04-05
+:
+Telefono
+:
+CITOLOGIA CERVICO VAGINAL
+F.U.M
+02/2024
+SIGNO
+CONGESTIVO
+F.U.C
+08/2023
+PARTOS
+0
+METODO PLANIF.
+MIRENA
+CALIDAD DE LA MUESTRA
+Insatisfactoria para evaluacion por extendido grueso.
+ESTUDIO ONCOLÓGICO
+CLASIFICACIÓN GENERAL
+MICROORGANISMOS
+OBSERVACIONES Y
+RECOMENDACIONES
+Se sugiere repetir según criterio médico.
+CITOFEMME 04/03/2025
+KELLY NATALIA RUIZ GALLEGO
+5-3216
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 66083481
+URL : https://acortar.link/vI3yLL

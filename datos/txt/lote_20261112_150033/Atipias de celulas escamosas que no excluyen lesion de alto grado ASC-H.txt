@@ -1,0 +1,62 @@
+Solicitud
+Identificación
+Fecha Recepción
+Fecha Validación
+Paciente
+Fecha Impresión
+Edad/Sexo
+Convenio
+:
+:
+:
+:
+:
+FRANCIA INES ANGEL PAMPLONA
+2025-03-12 15:37:32.
+48  /  F
+SAVIA SALUD EPS SALUD PUBLICA
+01878095
+43607817
+2025-03-03 12:04:29
+2025-03-10 19:30:39
+Servicio
+: CONSULTA EXTERNA
+:
+:
+:
+Página 1 de 1
+01878095
+ANALISIS
+RESULTADO
+VALORES DE REFERENCIA
+Sede 
+: SEDE CENTRAL
+Fecha Nacido
+1976-03-30
+:
+Telefono
+3216286979
+:
+CITOLOGIA CERVICO VAGINAL
+SIGNO
+SANGRANTE
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluacion con presencia de componente endocervical.
+ESTUDIO ONCOLÓGICO
+Atipias de celulas escamosas que no excluyen lesion de alto grado ASC-H
+CLASIFICACIÓN GENERAL
+Anormalidades en celulas epiteliales escamosas.
+MICROORGANISMOS
+Cambios en flora sugestivos de vaginosis bacteriana.
+RECOMENDACIONES
+Citología revisada por el Patólogo Joan M. Gutiérrez.
+Seguir protocolo de la IPS.
+CITOFEMME 03/03/2025
+MARIA DEL SOCORRO BURBANO OROZCO
+1686
+Validado Por:
+CITOTECNOLOGA
+* La interpretación del resultado de sus examenes corresponde exclusivamente al médico*
+Para verificar la autenticidad de este documento, debe escanear el código QR o ingresar a la siguiente URL, 
+desde donde deberá ingresar el documento de identidad y este código: 01878095
+URL : https://acortar.link/vI3yLL

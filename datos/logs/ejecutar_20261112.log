@@ -1,0 +1,42 @@
+2026-11-12 15:00:33 | ============================================================
+2026-11-12 15:00:33 | Inicio | PDFs: C:\Users\SHERNANDEZ03-0344\Desktop\DTP\pdfs | datos: C:\Users\SHERNANDEZ03-0344\Desktop\DTP\datos | BD local: C:\Users\SHERNANDEZ03-0344\Desktop\DTP\demo.db
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+2026-11-12 15:00:45 | 59 PDF en la carpeta | 59 nuevos por procesar
+2026-11-12 15:00:47 | Texto extraído de 59/59 PDF -> C:\Users\SHERNANDEZ03-0344\Desktop\DTP\datos\txt\lote_20261112_150033
+Procesando 59 archivos | correo: SIMULADO -> shernandez@nxs.com.co
+
+[1/59] AGC-NEOPLASIA Celulas glandulares atípicas a favor de neoplasia.txt ...   [aviso] no se pudo consultar MySQL: (2003, "Can't connect to MySQL server on '10.250.3.67' (timed out)")
+Traceback (most recent call last):
+  File "C:\Users\SHERNANDEZ03-0344\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\ejecutar.py", line 312, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\ejecutar.py", line 270, in main
+    pipeline.main()
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\pipeline.py", line 220, in main
+    r = procesar_texto(str(archivo.relative_to(a.carpeta_txt)),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\pipeline.py", line 160, in procesar_texto
+    "en_bd": bd.buscar_afiliado(doc) is not None if doc else False},
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\base_datos_mysql.py", line 89, in buscar_afiliado
+    with self._conexion().cursor() as cur:
+         ^^^^^^^^^^^^^^^^
+  File "C:\Users\SHERNANDEZ03-0344\Desktop\DTP\base_datos_mysql.py", line 75, in _conexion
+    self._my = pymysql.connect(
+               ^^^^^^^^^^^^^^^^
+  File "c:\Users\SHERNANDEZ03-0344\Desktop\DTP\.venv\Lib\site-packages\pymysql\connections.py", line 373, in __init__
+    self.connect()
+  File "c:\Users\SHERNANDEZ03-0344\Desktop\DTP\.venv\Lib\site-packages\pymysql\connections.py", line 681, in connect
+    sock = socket.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SHERNANDEZ03-0344\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 843, in create_connection
+    exceptions.clear()  # raise only the last error
+    ^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

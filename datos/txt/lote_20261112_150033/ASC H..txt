@@ -1,0 +1,69 @@
+Nit: 890906347
+DIAGONAL 31 NO 36 A SUR 80 3394800
+Genero:
+Empresa
+Femenino
+Fecha Ingreso:
+23/1/2025 09:36:01
+ALIANZA MEDELLIN ANTIOQUIA EPS-S EVENTO
+BAJA COMPLEJIDAD
+Edad
+45A 7M 12D
+Paciente
+FRANCI MARELBA FRANCO CASTAÑO
+CC  43865985
+Documento:
+Servicio:
+Ubicación:
+Medico
+Telefono
+No. de Orden:
+3215304822
+2501230241
+AMBULATORIO
+AGENDAMIENTO
+Laboratorio
+04-1813089-1
+CITOLOGIA
+                   A N A L I S I S
+VAL. DE REFERENCIA
+RESULTADOS
+  UN
+898015  CITOLOGÍA CERVICOUTERINA
+25-068
+SECUENCIA DE LA CITOLOGIA
+10-01-2025
+F.U.M
+8 años
+FECHA ULTIMA CITOLOGÍA
+EROSIONADO
+ASPECTO DEL CUELLO
+CALIDAD MUESTRA
+Satisfatoria, zona de transformación presente.
+INTERPRETACIÓN DEL RESULTADO
+ASC-H
+(células
+escamosas
+atípicas,
+de
+significado
+indeterminado
+sugestivo
+de
+LEI
+de
+alto
+grado).
+Células endocervicales atípicas sospechosas de neoplasia
+MICROORGANISMOS
+Ausencia de flora patógena
+ERITROCITOS
+Cantidad media
+RECOMENDACIONES
+Evaluar por Colposcopia y Biopsia
+OBSERVACIONES
+Citología revizada por el médico patólogo Dr Alvaro Restrepo Pareja. Reg-5625-87
+24/1/2025 15:10:57
+Fecha de Validacion:
+Página :1/1
+Fecha de Impresión: 28/01/2025 14:29 hr.

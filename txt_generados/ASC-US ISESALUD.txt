@@ -1,0 +1,65 @@
+INFORMACIÓN DEL PACIENTE
+Fecha impresión:
+06/08/2026
+10:45:41a. m.
+Tipo reporte:
+COPIA
+Fecha atención:
+Fecha resultado:
+Entidad:
+E.P.S.:
+Médico:
+Sexo:
+Edad:
+Teléfono:
+Paciente:
+Doc. Id.:
+ORDEN
+No.: 513493
+PLACA
+No.: 26-057079
+GLADYS ENEIDA PATIÑO  VILLA 
+51
+Años
+POCTLAB S.A.S  
+31/07/2026
+22117741
+FEMENINO
+06/08/2026  10:50 am
+DATOS GINECOLÓGICOS
+Síntomas:
+Resul. Cito. Ant.:
+Signo:
+Método planif.:
+Gestación:
+Partos:
+F.U.M.:
+F.U.C.:
+Abortos:
+3 AÑOS
+CITOFEMME IPS S.A.S.
+NIT: 900358952-9
+Calle 25 Sur #46-173
+Envigado-Colombia
+PBX: (574) 4485530
+https://www.citofemme.com/
+administracion@citofemme.com
+PBX1: (574) 4485530
+PBX2: (574) 3135170271
+INFORME DE CITOLOGÍA CERVICOUTERINA
+SISTEMA BETHESDA 2001
+CALIDAD DE LA MUESTRA
+Satisfactoria para evaluación con presencia de componente endocervical
+CLASIFICACIÓN GENERAL
+Anormalidades en células epiteliales escamosas.
+ESTUDIO ONCOLÓGICO
+Atipias en células epiteliales escamosas de significado indeterminado ASC-US.
+MICROORGANISMOS
+Presencia de flora no patógena
+OBSERVACIONES
+Citologia procesada por el mètodo de base liquida
+RECOMENDACIONES
+Sugiere consultar al ginecólogo
+Responsable:
+MARÍA DEL SOCORRO BURBANO OROZCO
+Registro: 001686
